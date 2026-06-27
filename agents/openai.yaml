@@ -1,0 +1,9 @@
+interface:
+  display_name: Chrome 内存优化
+  short_description: 一键优化 Chrome 内存占用，从 4GB 降到 1GB
+  default_prompt: Chrome 太吃内存了，帮我优化一下
+  icon: memory
+  chips:
+    - Chrome 内存优化
+    - 浏览器加速
+    - 内存释放
