@@ -166,12 +166,14 @@ flux2-vae.safetensors → ComfyUI/models/vae/
 - ✅ Sulphur 2 无审查 AI 视频模型本地部署（8G显存可跑）
 - ✅ Open Claw + 本地模型：免费无限 Token 的 ChatGPT 平替方案
 - ✅ OpenClaw 免费接入 ChatGPT Images 2.0（无需 API Key / 无需 Token）
+- ✅ 编程王者实测：ChatGPT5.5 vs Claude 4.7 vs DeepSeek V4 vs Qwen 3.6
 - 🔄 更多 AI 工具教程 coming soon...
 ---
 
 **Made with ❤️ by michoney**
 
 [![GitHub stars](https://img.shields.io/github/stars/michoney/chrome-memory-optimizer?style=social)](https://github.com/michoney/chrome-memory-optimizer)
+
 
 
 
