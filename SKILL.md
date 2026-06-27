@@ -55,3 +55,4 @@ Start-Process -FilePath $chromeExe -ArgumentList $args
 - MemoryLimitMB: 内存上限（小内存改 2048）
 - MaxRendererProcesses: 进程数上限（小内存改 5）
 - InactiveTimeoutMin: 标签冻结时间（激进改 5）
+

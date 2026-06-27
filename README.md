@@ -1,4 +1,4 @@
-# ⚡ michoney 的科技工具箱
+# ⚡ michoney 的教程仓库
 
 > 搞机干货 · AI 教程 · 效率工具 · 智能体横向评测
 
@@ -176,6 +176,7 @@ flux2-vae.safetensors → ComfyUI/models/vae/
 **Made with ❤️ by michoney**
 
 [![GitHub stars](https://img.shields.io/github/stars/michoney/chrome-memory-optimizer?style=social)](https://github.com/michoney/chrome-memory-optimizer)
+
 
 
 
