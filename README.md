@@ -154,25 +154,26 @@ flux2-vae.safetensors → ComfyUI/models/vae/
 
 持续更新中：
 - ✅ 三大智能体横向对比（Codex CLI vs Hermes vs OpenClaw）
-- ✅ Chrome 内存优化（从 4.5GB 降到 1GB）+ 7个隐藏设置翻倍提速
-- ✅ Winhance 一键给 Windows 瘦身，老电脑重获新生
-- ✅ AI 编程王者实测：ChatGPT5.5 vs Claude 4.7 vs DeepSeek V4 vs Qwen 3.6
-- ✅ Qwen3.6-Plus / DeepSeek-V4 / ChatGPT Images 2.0 最新发布
-- ✅ OpenClaw 全系列：免费接入 / U盘版 / 小龙虾安装 / NAS部署 / QQ微信飞书
-- ✅ Hermes Agent 从安装到 Telegram / 微信 / Qwen3.6 组合全系列
+- ✅ Chrome 内存优化 + 7个隐藏设置翻倍提速
+- ✅ Winhance 一键给 Windows 瘦身
+- ✅ AI 编程王者实测 / Qwen3.6-Plus / DeepSeek-V4 / ChatGPT Images 2.0
+- ✅ GPT-5.4 原生操控电脑实测：OpenClaw 天选模型
+- ✅ OpenClaw 全系列：免费接入 / U盘版 / 小龙虾 / NAS / 微信QQ / 小技巧
+- ✅ Hermes Agent 全系列：部署 / Telegram / 微信 / Qwen3.6 组合
 - ✅ Claude Code + Ollama / Holo 3.1 / Qwen3.6 越狱版
-- ✅ Ideogram 4 / Z-Image Turbo / Sulphur 2 绘图视频模型部署
+- ✅ Ideogram 4 / Z-Image Turbo / Sulphur 2 绘图视频模型
 - ✅ Gemma 4 全系列：发布 / 本地部署 / 手机端运行
-- ✅ OMLX / Silicon：Mac 本地 AI 推理加速 & 模型导入
-- ✅ PearOS：macOS 风格 Linux 系统安装教程
-- ✅ Cloudflare 免费节点 / WARP Zero Trust / MASQUE 协议教程
-- ✅ Pearl (PRL) 珍珠币挖矿教程（显卡矿工回归）
+- ✅ OMLX / Silicon：Mac 本地 AI 加速 & 模型导入
+- ✅ PearOS：macOS 风格 Linux 系统
+- ✅ Cloudflare 免费节点 / WARP Zero Trust / MASQUE
+- ✅ Pearl (PRL) 珍珠币挖矿教程
 - 🔄 更多 AI 工具教程 coming soon...
 ---
 
 **Made with ❤️ by michoney**
 
 [![GitHub stars](https://img.shields.io/github/stars/michoney/chrome-memory-optimizer?style=social)](https://github.com/michoney/chrome-memory-optimizer)
+
 
 
 
