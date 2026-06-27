@@ -159,12 +159,14 @@ flux2-vae.safetensors → ComfyUI/models/vae/
 - ✅ Z-Image Turbo 本地安装教程（支持 NSFW / 8G显存可跑）
 - ✅ Holo 3.1 Agent 本地部署实测（免费无限 Token + 接入 OpenClaw）
 - ✅ Pearl (PRL) 珍珠币挖矿教程（显卡矿工回归！单卡日收益 $10）
+- ✅ Qwen3.6-35B 越狱版部署教程（目前最强无审查开源模型 / 6G显存可跑）
 - 🔄 更多 AI 工具教程 coming soon...
 ---
 
 **Made with ❤️ by michoney**
 
 [![GitHub stars](https://img.shields.io/github/stars/michoney/chrome-memory-optimizer?style=social)](https://github.com/michoney/chrome-memory-optimizer)
+
 
 
 
