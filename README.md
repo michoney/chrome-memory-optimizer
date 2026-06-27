@@ -157,7 +157,8 @@ flux2-vae.safetensors → ComfyUI/models/vae/
 - ✅ Chrome 内存优化 + 7个隐藏设置翻倍提速
 - ✅ Winhance 一键给 Windows 瘦身
 - ✅ AI 编程王者 / Qwen3.6-Plus / Qwen3.5 多模态 / DeepSeek-V4
-- ✅ GPT-5.4 / GPT-5.3 Instant 最新发布实测
+- ✅ GPT-5.4 / GPT-5.3 Instant / Nano Banana 2 最新发布
+- ✅ Seedance 2.0：一键生成短剧，人人当导演的 AI 时代
 - ✅ Cursor 免费无限使用教程
 - ✅ OpenClaw 全系列 / Hermes Agent 全系列 / Claude Code + Ollama
 - ✅ Ideogram 4 / Z-Image Turbo / Sulphur 2 绘图视频模型
@@ -165,7 +166,7 @@ flux2-vae.safetensors → ComfyUI/models/vae/
 - ✅ OMLX / Silicon：Mac 本地 AI 加速
 - ✅ PearOS：macOS 风格 Linux 系统
 - ✅ Cloudflare 免费节点 / WARP / Zero Trust / MASQUE 全系列
-- ✅ Eskimo 免费全球 eSIM 领取（有效期2年）
+- ✅ Eskimo 免费全球 eSIM（有效期2年）
 - ✅ Pearl (PRL) 珍珠币挖矿教程
 - 🔄 更多 AI 工具教程 coming soon...
 ---
@@ -173,6 +174,7 @@ flux2-vae.safetensors → ComfyUI/models/vae/
 **Made with ❤️ by michoney**
 
 [![GitHub stars](https://img.shields.io/github/stars/michoney/chrome-memory-optimizer?style=social)](https://github.com/michoney/chrome-memory-optimizer)
+
 
 
 
