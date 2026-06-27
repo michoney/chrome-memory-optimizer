@@ -172,8 +172,9 @@ flux2-vae.safetensors → ComfyUI/models/vae/
 - ✅ Ideogram 4 本地部署教程
 - ✅ Z-Image Turbo 本地安装教程（支持 NSFW / 8G显存可跑）
 - ✅ Sulphur 2 无审查 AI 视频模型本地部署（8G显存可跑）
-- ✅ Gemma 4 本地部署教程
+- ✅ Gemma 4 正式发布 + 本地部署教程
 - ✅ 手机跑 Gemma 4 原生多模态（安卓 + iPhone 实测）
+- ✅ Cloudflare 免费节点搭建（永久可用 + 免费域名）
 - ✅ Pearl (PRL) 珍珠币挖矿教程（显卡矿工回归！单卡日收益 $10）
 - 🔄 更多 AI 工具教程 coming soon...
 ---
@@ -181,6 +182,7 @@ flux2-vae.safetensors → ComfyUI/models/vae/
 **Made with ❤️ by michoney**
 
 [![GitHub stars](https://img.shields.io/github/stars/michoney/chrome-memory-optimizer?style=social)](https://github.com/michoney/chrome-memory-optimizer)
+
 
 
 
