@@ -158,9 +158,10 @@ flux2-vae.safetensors → ComfyUI/models/vae/
 - ✅ Winhance 一键给 Windows 瘦身
 - ✅ AI 编程王者 / Qwen3.6-Plus / Qwen3.5 多模态 / DeepSeek-V4
 - ✅ GPT-5.4 / GPT-5.3 Instant / Gemini 3.1 Pro / Nano Banana 2
-- ✅ Seedance 2.0：一键生成短剧，人人当导演的 AI 时代
-- ✅ Deep Research：免费 AI 深度研究报告工具
-- ✅ Cursor 免费无限使用教程
+- ✅ Qwen-Image-Edit 图片编辑实测 + 本地部署
+- ✅ Seedance 2.0：一键生成短剧，人人当导演
+- ✅ Deep Research：免费 AI 深度研究报告
+- ✅ Cursor 免费无限使用
 - ✅ OpenClaw 全系列 / Hermes Agent 全系列 / Claude Code + Ollama
 - ✅ Ideogram 4 / Z-Image Turbo / Sulphur 2 绘图视频模型
 - ✅ Gemma 4 全系列 / Qwen3.6 越狱版 / Holo 3.1 / llama.cpp
@@ -175,6 +176,7 @@ flux2-vae.safetensors → ComfyUI/models/vae/
 **Made with ❤️ by michoney**
 
 [![GitHub stars](https://img.shields.io/github/stars/michoney/chrome-memory-optimizer?style=social)](https://github.com/michoney/chrome-memory-optimizer)
+
 
 
 
